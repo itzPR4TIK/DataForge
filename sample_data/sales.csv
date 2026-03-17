@@ -1,0 +1,10 @@
+Month,Product,Category,Units_Sold,Revenue,Region
+January,Laptop,Electronics,45,67500,North
+January,Phone,Electronics,120,60000,South
+January,Desk,Furniture,30,9000,North
+February,Laptop,Electronics,52,78000,North
+February,Phone,Electronics,135,67500,East
+February,Desk,Furniture,25,7500,South
+March,Laptop,Electronics,60,90000,West
+March,Phone,Electronics,150,75000,North
+March,Desk,Furniture,40,12000,East
